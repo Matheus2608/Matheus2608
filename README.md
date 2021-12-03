@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matheus2608
 - 👀 I’m interested in becoming an IT professional.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on sharing my ideas and my projects.
 - 📫 How to reach me ? Just send an email to @matheuslacerdadasilveira@gmail.com
 
