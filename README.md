@@ -28,6 +28,3 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus2608&repo=Tic-Tac-Toe)](https://github.com/Matheus2608/Tic-Tac-Toe)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus2608&repo=e-commerce-auction-site)](https://github.com/Matheus2608/e-commerce-auction-site)
