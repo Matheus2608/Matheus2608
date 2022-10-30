@@ -3,7 +3,7 @@
   <a href = "mailto:matheuslacerdadasilveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## Hey, my name is Matheus and I'm developer and Data Scientist!
+## Hey, my name is Matheus and I'm a Software Engineer Intern at Amazon!
 <div align="center">
   <a href="https://github.com/Matheus2608">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus2608&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
